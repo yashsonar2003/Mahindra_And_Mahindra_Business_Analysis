@@ -87,12 +87,10 @@ https://public.tableau.com/views/MM_Global_Sales_Dashboard/BusinessInsights?:lan
 -----
 
 ### Conclusion:-
-➣ The analysis highlights that Mahindra & Mahindra is in a strong financial position with stable growth and profitability.
-
-➣ Future success will depend on:
+- The analysis highlights that Mahindra & Mahindra is in a strong financial position with stable growth and profitability.
+- Future success will depend on:
   - Expanding EV capabilities
   - Strengthening global market balance
   - Optimizing underperforming segments
-
-➣ With the right strategic focus, the company is well-positioned for sustainable long-term growth.
+- With the right strategic focus, the company is well-positioned for sustainable long-term growth.
 -----
