@@ -94,17 +94,17 @@ Key Highlights:-
 - Europe region contributes the highest revenue among global markets.
 - Individual customers contribute more revenue than corporate clients.
 - International markets outperform India in total revenue contribution.
-- Profit margins are stable (~25%), indicating controlled cost structure .
+- Profit margins are stable (~25%), indicating controlled cost structure.
 
 
 -----
 
 ### Dashboard Preview:-
-![Executive_Performance_Overview](Dashboard/Screenshot/1_Executive_Performance_Overview.png)
-![Geographical_Sales_Performance](Dashboard/Screenshot/2_Geographical_Sales_Performance.png)
-![Product_Performance](Dashboard/Screenshot/3_Product_Performance.png)
-![Sales_Channel_&_Payment_Insights](Dashboard/Screenshot/4_Sales_Channel_&_Payment_Insights.png)
-![Marketing_&_Customer_Insights](Dashboard/Screenshot/5_Marketing_&_Customer_Insights.png)
+![Executive_Overview](Mahindra_And_Mahindra_Business_Analysis/Dashboard/Screenshot/1_Executive_Overview.png) 
+![Product_Performance](Mahindra_And_Mahindra_Business_Analysis/Dashboard/Screenshot/2_Product_Performance.png)
+![Customer_Behavior_Analysis](Mahindra_And_Mahindra_Business_Analysis/Dashboard/Screenshot/3_Customer_Behavior_Analysis.png)
+![Market_Expansion](Mahindra_And_Mahindra_Business_Analysis/Dashboard/Screenshot/4_Market_Expansion.png)
+![Forecasting](Mahindra_And_Mahindra_Business_Analysis/Dashboard/Screenshot/5_Forecasting.png)
 
 -----
 
