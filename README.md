@@ -100,11 +100,11 @@ Key Highlights:-
 -----
 
 ### Dashboard Preview:-
-![Executive_Overview](Mahindra_And_Mahindra_Business_Analysis/Dashboard/Screenshot/1_Executive_Overview.png) 
-![Product_Performance](Mahindra_And_Mahindra_Business_Analysis/Dashboard/Screenshot/2_Product_Performance.png)
-![Customer_Behavior_Analysis](Mahindra_And_Mahindra_Business_Analysis/Dashboard/Screenshot/3_Customer_Behavior_Analysis.png)
-![Market_Expansion](Mahindra_And_Mahindra_Business_Analysis/Dashboard/Screenshot/4_Market_Expansion.png)
-![Forecasting](Mahindra_And_Mahindra_Business_Analysis/Dashboard/Screenshot/5_Forecasting.png)
+![Executive_Overview](Dashboard/Screenshots/1_Executive_Overview.png) 
+![Product_Performance](Dashboard/Screenshots/2_Product_Performance.png)
+![Customer_Behavior_Analysis](Dashboard/Screenshots/3_Customer_Behavior_Analysis.png)
+![Market_Expansion](Dashboard/Screenshots/4_Market_Expansion.png)
+![Forecasting](Dashboard/Screenshots/5_Forecasting.png)
 
 -----
 
