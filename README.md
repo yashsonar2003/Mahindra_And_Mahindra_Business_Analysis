@@ -109,31 +109,29 @@ Key Highlights:-
 -----
 
 ### Key Learnings:-
-1. Understood how to design executive-level dashboards with KPI-focused storytelling.
-2. Learned advanced calculated field creation in Tableau.
-3. Improved skills in financial KPI analysis and profitability evaluation.
-4. Gained experience in regional and product segmentation analysis.
-5. Developed business interpretation skills from visual insights.
-6. Practiced converting raw data into strategic business decisions.
+- Importance of data cleaning and consistency in real-world datasets.
+- Ability to connect business objectives with data insights.
+- Hands-on experience in time-series forecasting.
+- Strong understanding of Tableau dashboard design principles.
+- Improved skills in data visualization.
 
 -----
 
 ### Project Structure:-
-- Apple_Inc._Global_Analysis
+- Mahindra_And_Mahindra_Business_Analysis
   - Analysis_Python/: Python Notebook.
-  - Dashboard/: "Apple_Inc_Global_Overview_Dashboard.twbx" file.
-  - Data/: Raw, Clean and Processed Dataset.
+  - Dashboard/: "M&M_Global_Sales_Dashboard.twbx" file.
+  - Data/: Raw and Clean Dataset.
   - Insights/: Business Insights & Recommendations.
   - README.md: Project Documentation.
  
 -----
 
 ### Key Outcome:-
-1. Delivered a complete business intelligence dashboard analyzing Apple’s global performance.
-2. Identified revenue drivers and high-margin segments.
-3. Highlighted regional contribution balance and product performance trends.
-4. Demonstrated strong marketing efficiency with measurable ROI.
-5. Created a portfolio-ready Tableau project suitable for data analyst roles.
+- This project successfully demonstrates:
+  - End-to-End Business Analytics Workflow.
+  - Ability to derive actionable insights from large datasets.
+  - Strong forecasting and visualization capabilities.
 
 -----
 
