@@ -1,6 +1,6 @@
 # Mahindra & Mahindra Business Analysis
 
-# Company Name: Mahindra & Mahindra Ltd (M&M)
+# Company Name: Mahindra & Mahindra Ltd. (M&M)
 
 -----
 
